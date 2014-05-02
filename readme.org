@@ -1,0 +1,3 @@
+* Warmup4 - Implement CoffeeScript's Class System
+** Implement Class Constructor
+- [[http://pivotallabs.com/javascript-constructors-prototypes-and-the-new-keyword/][figure out constructor ]]
